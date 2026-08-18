@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,30:302B63,70:24243E,100:0F0C29&height=300&section=header&text=HARSHA%20VARDHAN%20N%20J&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Engineer&descAlignY=55&descSize=16&font=Inter" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,30:302B63,70:24243E,100:0F0C29&height=280&section=header&text=HARSHA%20VARDHAN%20N%20J&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Engineer&descAlignY=58&descSize=15&font=Inter" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Full-Stack+Engineer+%7C+SaaS+Builder;AI-Powered+Product+Engineer;Building+Scalable+%26+Performant+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=780&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Full-Stack+Engineer+%7C+SaaS+Builder;AI-Powered+Product+Engineer;Building+Scalable+%26+Performant+UIs" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -46,47 +46,60 @@
   <img src="https://img.shields.io/github/stars/harshavardhannj?style=for-the-badge&color=22D3EE&label=Stars" />
 </div>
 
+<br/>
+
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 > **Frontend Developer** with **4+ years** of experience shipping scalable SaaS products.  
 > I turn complex requirements into clean, performant UIs using **React.js**, **Next.js** and modern JavaScript ecosystems.
 
 Beyond the frontend, I work as a **Full-Stack Engineer** — owning features end-to-end with Node.js, REST/GraphQL, event-driven systems and cloud infrastructure.
 
-I actively integrate **AI/ML** (OpenAI GPT, MCP, LLM agents) into production workflows.
-
+I actively integrate **AI/ML** (OpenAI GPT, MCP, LLM agents) into production workflows.  
 I care deeply about **maintainability**, **developer experience** and shipping polished products that users actually love.
 
-#### 🚀 Currently Open To
+<br/>
+
+#### Currently Open To
+
 - Frontend / Full-Stack roles (React • Next.js • TypeScript)
 - AI-powered product engineering
 - High-impact SaaS platforms
 - Remote / Hybrid collaboration
 
+<br/>
+
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-**Languages**  
+**Languages**
+
 <img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css&theme=dark" />
 
-**Frontend**  
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,remix&theme=dark" />
 
-**Backend & Databases**  
+**Backend & Databases**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,mysql,supabase,firebase&theme=dark" />
 
-**Cloud • DevOps • Tooling**  
+**Cloud • DevOps • Tooling**
+
 <img src="https://skillicons.dev/icons?i=aws,docker,gitlab,git,vercel&theme=dark" />
 
-**Mobile**  
+**Mobile**
+
 <img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" />
+
+<br/>
 
 ---
 
-### 🤖 AI / ML Expertise
+### AI / ML Expertise
 
 | Domain                        | Level         | What I do                                          |
 |-------------------------------|---------------|----------------------------------------------------|
@@ -96,12 +109,14 @@ I care deeply about **maintainability**, **developer experience** and shipping p
 | Hugging Face                  | Intermediate  | Model experimentation & integration                |
 | AI Tooling (Cursor / Copilot) | Advanced      | Rapid prototyping & boilerplate reduction          |
 
+<br/>
+
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <details>
-<summary><b>🔹 B2B Admin Panel</b> — Next.js • React • Tailwind • REST</summary>
+<summary><b>B2B Admin Panel</b> — Next.js • React • Tailwind • REST</summary>
 <br/>
 
 High-traffic enterprise admin panel with complex client-side state management.
@@ -117,12 +132,13 @@ High-traffic enterprise admin panel with complex client-side state management.
 - End-to-end API integration ownership
 - Complex React Hooks state management
 - Optimized data-heavy screens for speed & accessibility
+
 </details>
 
 <br/>
 
 <details>
-<summary><b>🔹 AI-Powered Blog Generator</b> — React • Remix • Node.js • OpenAI</summary>
+<summary><b>AI-Powered Blog Generator</b> — React • Remix • Node.js • OpenAI</summary>
 <br/>
 
 AI content platform that generates SEO-tuned blog posts with consistent brand voice.
@@ -137,12 +153,13 @@ AI content platform that generates SEO-tuned blog posts with consistent brand vo
 - Remix-based rich text editor
 - OpenAI image generation
 - Standardized multi-campaign publishing
+
 </details>
 
 <br/>
 
 <details>
-<summary><b>🔹 Store Workers — AI Automation Agent</b> — React • FastAPI • MCP • AWS</summary>
+<summary><b>Store Workers — AI Automation Agent</b> — React • FastAPI • MCP • AWS</summary>
 <br/>
 
 MCP-based AI agent that automates Shopify store operations & bulk product updates.
@@ -157,11 +174,14 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 - Architected MCP agent for Shopify
 - FastAPI + Supabase + AWS S3/Lambda
 - Polaris UI for multi-channel updates
+
 </details>
+
+<br/>
 
 ---
 
-### 💼 Experience
+### Experience
 
 #### Frontend Engineer • Trikon Telesoft Solution • Chennai  
 **Oct 2025 – Present**
@@ -197,9 +217,11 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 
 `Flutter` `Dart` `Firebase` `Riverpod` `Stripe`
 
+<br/>
+
 ---
 
-### 🏆 Key Achievements
+### Key Achievements
 
 | Achievement                  | Impact                                              |
 |------------------------------|-----------------------------------------------------|
@@ -208,21 +230,25 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 | AI Workflow Automation       | 60% reduction in manual effort                      |
 | Client Retention             | 95% on multi-tenant B2B SaaS                        |
 | Mobile Scale                 | 10K+ MAU + 50% ad revenue growth                    |
-| Mentorship & Process         | 3 engineers mentored + 25% higher release confidence |
+| Mentorship & Process         | 3 engineers mentored + 25% higher release confidence|
+
+<br/>
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/LAMP-Linux%20%7C%20Apache%20%7C%20MySQL%20%7C%20PHP-7C3AED?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+</div>
+
+<br/>
 
 ---
 
-### 📊 Coding Profiles
+### Coding Profiles
 
-<p align="center">
+<div align="center">
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -238,28 +264,31 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
   <a href="https://www.codechef.com/">
     <img src="https://img.shields.io/badge/CodeChef-Practice-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br/>
 
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
-  <!-- Streak Stats (Working) -->
   <img src="https://streak-stats.demolab.com/?user=harshavardhannj&theme=tokyonight&hide_border=true&background=00000000&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-### 📉 Contribution Activity
+### Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhannj&bg_color=00000000&color=A78BFA&line=7C3AED&point=22D3EE&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
+<br/>
+
 ---
 
-### 🎯 Current Focus
+### Current Focus
 
 ```yaml
 Learning:
