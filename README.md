@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20&height=280&section=header&text=HARSHA%20VARDHAN%20N%20J&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20Full-Stack%20%7C%20AI%20Engineer&descAlignY=58&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30,36&height=280&section=header&text=HARSHA%20VARDHAN%20N%20J&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20Full-Stack%20%7C%20AI%20Engineer&descAlignY=58&descSize=16&font=Inter" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2400&pause=900&color=C4B5FD&center=true&vCenter=true&width=940&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Full-Stack+Engineer+%7C+SaaS+Builder;AI-Powered+Product+Engineer;Building+Scalable+%26+Performant+UIs;Turning+Ideas+into+Production-Ready+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2400&pause=900&color=C4B5FD&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Full-Stack+Engineer+%7C+SaaS+Builder;AI-Powered+Product+Engineer;Building+Scalable+%26+Performant+UIs;Turning+Ideas+into+Production-Ready+Products" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -50,8 +50,7 @@
 
 Beyond the frontend, I work as a **Full-Stack Engineer** — owning features end-to-end with Node.js, REST/GraphQL, event-driven systems and cloud infrastructure.
 
-I actively integrate **AI/ML** (OpenAI GPT, MCP, LLM agents) into production workflows.
-
+I actively integrate **AI/ML** (OpenAI GPT, MCP, LLM agents) into production workflows.  
 I care deeply about **maintainability**, **developer experience** and shipping polished products that users actually love.
 
 #### 🚀 Currently Open To
@@ -160,7 +159,6 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 
 #### Frontend Engineer • Trikon Telesoft Solution • Chennai  
 **Oct 2025 – Present**
-
 - Migrating legacy monolith → Next.js (estimated **40%** faster page loads)
 - Building responsive UIs with React + Tailwind
 - Reduced redundant API calls by **~30%**
@@ -172,7 +170,6 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 
 #### Full-Stack Software Engineer • Binarychakra • Madurai  
 **Oct 2023 – Oct 2025**
-
 - Built multi-tenant B2B SaaS with **95%** client retention
 - Kafka pipelines handling **100K+** events/min → **40%** lower latency
 - Integrated OpenAI via FastAPI → **60%** less manual processing
@@ -184,7 +181,6 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 
 #### Mobile Developer • Cron24 Technologies • Madurai  
 **Mar 2022 – Sep 2023**
-
 - Shipped 5+ production Flutter apps (10K+ MAU)
 - **50%** ad revenue uplift
 - Multi-language support across 10+ regions
