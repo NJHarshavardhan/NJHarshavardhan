@@ -1,9 +1,11 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=HARSHA+VARDHAN+N+J" alt="Name" />
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,30:302B63,70:24243E,100:0F0C29&height=300&section=header&text=HARSHA%20VARDHAN%20N%20J&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20AI%20Engineer&descAlignY=55&descSize=16&font=Inter" width="100%" />
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=780&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Full-Stack+Engineer+%7C+SaaS+Builder;AI-Powered+Product+Engineer;Building+Scalable+%26+Performant+UIs" alt="Roles" />
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Full-Stack+Engineer+%7C+SaaS+Builder;AI-Powered+Product+Engineer;Building+Scalable+%26+Performant+UIs" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -243,22 +245,16 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshavardhannj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhannj&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB" />
+  <!-- Streak Stats (Working) -->
+  <img src="https://streak-stats.demolab.com/?user=harshavardhannj&theme=tokyonight&hide_border=true&background=00000000&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhannj&theme=tokyonight&hide_border=true&background=00000000&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
-
----
-
 ### 📉 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhannj&bg_color=00000000&color=A78BFA&line=7C3AED&point=22D3EE&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhannj&bg_color=00000000&color=A78BFA&line=7C3AED&point=22D3EE&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
