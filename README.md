@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=HARSHA%20VARDHAN%20N%20J&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20Full-Stack&descAlignY=52&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20&height=280&section=header&text=HARSHA%20VARDHAN%20N%20J&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20Full-Stack%20%7C%20AI%20Engineer&descAlignY=58&descSize=17" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=1200&color=C4B5FD&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Full-Stack+Engineer+%7C+SaaS+Builder;AI-Powered+Product+Engineer;Building+Scalable+%26+Performant+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2400&pause=900&color=C4B5FD&center=true&vCenter=true&width=940&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Full-Stack+Engineer+%7C+SaaS+Builder;AI-Powered+Product+Engineer;Building+Scalable+%26+Performant+UIs;Turning+Ideas+into+Production-Ready+Products" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -45,15 +45,16 @@
 
 ### 👨‍💻 About Me
 
-> Frontend Developer with **4+ years** of experience shipping scalable SaaS products.  
+> **Frontend Developer** with **4+ years** of experience shipping scalable SaaS products.  
 > I turn complex requirements into clean, performant UIs using **React.js**, **Next.js** and modern JavaScript ecosystems.
 
-Beyond the frontend, I work as a **Full-Stack Engineer** — owning features end-to-end with Node.js, REST/GraphQL, event-driven systems and cloud infrastructure.  
+Beyond the frontend, I work as a **Full-Stack Engineer** — owning features end-to-end with Node.js, REST/GraphQL, event-driven systems and cloud infrastructure.
+
 I actively integrate **AI/ML** (OpenAI GPT, MCP, LLM agents) into production workflows.
 
 I care deeply about **maintainability**, **developer experience** and shipping polished products that users actually love.
 
-#### 🚀 Open To
+#### 🚀 Currently Open To
 - Frontend / Full-Stack roles (React • Next.js • TypeScript)
 - AI-powered product engineering
 - High-impact SaaS platforms
@@ -82,13 +83,13 @@ I care deeply about **maintainability**, **developer experience** and shipping p
 
 ### 🤖 AI / ML Expertise
 
-| Domain                      | Level         | What I do                                              |
-|-----------------------------|---------------|--------------------------------------------------------|
-| LLM Integration             | Advanced      | OpenAI GPT, prompt engineering, production agents      |
-| AI Agents & MCP             | Advanced      | Model Context Protocol, autonomous tools, automation   |
-| NLP & Content Generation    | Intermediate+ | SEO content, brand voice, automated pipelines          |
-| Hugging Face                | Intermediate  | Model experimentation & integration                    |
-| AI Tooling (Cursor/Copilot) | Advanced      | Rapid prototyping & boilerplate reduction              |
+| Domain                        | Level         | What I do                                      |
+|-------------------------------|---------------|------------------------------------------------|
+| LLM Integration               | Advanced      | OpenAI GPT, prompt engineering, production agents |
+| AI Agents & MCP               | Advanced      | Model Context Protocol, autonomous tools, automation |
+| NLP & Content Generation      | Intermediate+ | SEO content, brand voice, automated pipelines  |
+| Hugging Face                  | Intermediate  | Model experimentation & integration            |
+| AI Tooling (Cursor / Copilot) | Advanced      | Rapid prototyping & boilerplate reduction      |
 
 ---
 
@@ -100,12 +101,12 @@ I care deeply about **maintainability**, **developer experience** and shipping p
 
 High-traffic enterprise admin panel with complex client-side state management.
 
-| Metric          | Value                                      |
-|-----------------|--------------------------------------------|
-| Stack           | Next.js, React, Tailwind, REST APIs        |
-| Scale           | High-traffic enterprise dashboard          |
-| Performance     | Large datasets without UI lag              |
-| Impact          | Faster workflows for enterprise users      |
+| Metric       | Value                                      |
+|--------------|--------------------------------------------|
+| Stack        | Next.js, React, Tailwind, REST APIs        |
+| Scale        | High-traffic enterprise dashboard          |
+| Performance  | Large datasets without UI lag              |
+| Impact       | Faster workflows for enterprise users      |
 
 **Highlights**
 - End-to-end API integration ownership
@@ -121,11 +122,11 @@ High-traffic enterprise admin panel with complex client-side state management.
 
 AI content platform that generates SEO-tuned blog posts with consistent brand voice.
 
-| Metric          | Value                                      |
-|-----------------|--------------------------------------------|
-| Stack           | React, Remix, Node.js, OpenAI GPT          |
-| Impact          | +40% organic traffic • −35% manual effort  |
-| Features        | Rich editor + scheduling + image gen       |
+| Metric   | Value                                      |
+|----------|--------------------------------------------|
+| Stack    | React, Remix, Node.js, OpenAI GPT          |
+| Impact   | +40% organic traffic • −35% manual effort  |
+| Features | Rich editor + scheduling + image gen       |
 
 **Highlights**
 - Remix-based rich text editor
@@ -141,11 +142,11 @@ AI content platform that generates SEO-tuned blog posts with consistent brand vo
 
 MCP-based AI agent that automates Shopify store operations & bulk product updates.
 
-| Metric          | Value                                      |
-|-----------------|--------------------------------------------|
-| Stack           | React, FastAPI, MCP, Supabase, AWS Lambda  |
-| Impact          | −40% manual admin work • higher accuracy   |
-| Architecture    | Real-time triggers + serverless            |
+| Metric       | Value                                      |
+|--------------|--------------------------------------------|
+| Stack        | React, FastAPI, MCP, Supabase, AWS Lambda  |
+| Impact       | −40% manual admin work • higher accuracy   |
+| Architecture | Real-time triggers + serverless            |
 
 **Highlights**
 - Architected MCP agent for Shopify
@@ -195,14 +196,14 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 
 ### 🏆 Key Achievements
 
-| Achievement                     | Impact                                      |
-|---------------------------------|---------------------------------------------|
-| Legacy → Next.js Migration      | 40% better page load across 15+ modules     |
-| Real-time Event Pipeline        | 100K+ events/min + 40% latency drop         |
-| AI Workflow Automation          | 60% reduction in manual effort              |
-| Client Retention                | 95% on multi-tenant B2B SaaS                |
-| Mobile Scale                    | 10K+ MAU + 50% ad revenue growth            |
-| Mentorship & Process            | 3 engineers mentored + 25% higher release confidence |
+| Achievement                  | Impact                                          |
+|------------------------------|-------------------------------------------------|
+| Legacy → Next.js Migration   | 40% better page load across 15+ modules         |
+| Real-time Event Pipeline     | 100K+ events/min + 40% latency drop             |
+| AI Workflow Automation       | 60% reduction in manual effort                  |
+| Client Retention             | 95% on multi-tenant B2B SaaS                    |
+| Mobile Scale                 | 10K+ MAU + 50% ad revenue growth                |
+| Mentorship & Process         | 3 engineers mentored + 25% higher release confidence |
 
 ---
 
@@ -248,26 +249,10 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 
 ---
 
-### 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshavardhannj&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</div>
-
----
-
 ### 📉 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhannj&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" />
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harshavardhannj/harshavardhannj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
