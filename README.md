@@ -1,19 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30,36&height=280&section=header&text=HARSHA%20VARDHAN%20N%20J&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Next.js%20%7C%20Full-Stack%20%7C%20AI%20Engineer&descAlignY=58&descSize=16&font=Inter" width="100%"/>
-</div>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=HARSHA+VARDHAN+N+J" alt="Name" />
+  </h1>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2400&pause=900&color=C4B5FD&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Full-Stack+Engineer+%7C+SaaS+Builder;AI-Powered+Product+Engineer;Building+Scalable+%26+Performant+UIs;Turning+Ideas+into+Production-Ready+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=780&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Full-Stack+Engineer+%7C+SaaS+Builder;AI-Powered+Product+Engineer;Building+Scalable+%26+Performant+UIs" alt="Roles" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/MCA-Master%20of%20Computer%20Applications-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/B.Sc-Computer%20Science-4F46E5?style=for-the-badge&logo=university&logoColor=white" />
-  <img src="https://img.shields.io/badge/📍-Madurai%2C%20India-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Sc-Computer%20Science-6366F1?style=for-the-badge&logo=university&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍-Madurai%2C%20India-22D3EE?style=for-the-badge" />
 </div>
 
 <br/>
@@ -22,12 +20,15 @@
   <a href="https://harsha-pro.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/harshavardhannj">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:harshavardhannj@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://github.com/harshavardhannj">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -37,8 +38,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=harshavardhannj&style=for-the-badge&color=7C3AED" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/harshavardhannj?style=for-the-badge&color=4F46E5&label=Followers" />
-  <img src="https://img.shields.io/github/stars/harshavardhannj?style=for-the-badge&color=6366F1&label=Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/harshavardhannj?style=for-the-badge&color=6366F1&label=Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/harshavardhannj?style=for-the-badge&color=22D3EE&label=Stars" />
 </div>
 
 ---
@@ -50,7 +53,8 @@
 
 Beyond the frontend, I work as a **Full-Stack Engineer** — owning features end-to-end with Node.js, REST/GraphQL, event-driven systems and cloud infrastructure.
 
-I actively integrate **AI/ML** (OpenAI GPT, MCP, LLM agents) into production workflows.  
+I actively integrate **AI/ML** (OpenAI GPT, MCP, LLM agents) into production workflows.
+
 I care deeply about **maintainability**, **developer experience** and shipping polished products that users actually love.
 
 #### 🚀 Currently Open To
@@ -64,31 +68,31 @@ I care deeply about **maintainability**, **developer experience** and shipping p
 ### 🛠️ Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css&theme=dark" />
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,remix" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,remix&theme=dark" />
 
 **Backend & Databases**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,mysql,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,mysql,supabase,firebase&theme=dark" />
 
-**Cloud, DevOps & Tooling**  
-<img src="https://skillicons.dev/icons?i=aws,docker,gitlab,git,vercel" />
+**Cloud • DevOps • Tooling**  
+<img src="https://skillicons.dev/icons?i=aws,docker,gitlab,git,vercel&theme=dark" />
 
 **Mobile**  
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" />
 
 ---
 
 ### 🤖 AI / ML Expertise
 
-| Domain                        | Level         | What I do                                      |
-|-------------------------------|---------------|------------------------------------------------|
-| LLM Integration               | Advanced      | OpenAI GPT, prompt engineering, production agents |
-| AI Agents & MCP               | Advanced      | Model Context Protocol, autonomous tools, automation |
-| NLP & Content Generation      | Intermediate+ | SEO content, brand voice, automated pipelines  |
-| Hugging Face                  | Intermediate  | Model experimentation & integration            |
-| AI Tooling (Cursor / Copilot) | Advanced      | Rapid prototyping & boilerplate reduction      |
+| Domain                        | Level         | What I do                                          |
+|-------------------------------|---------------|----------------------------------------------------|
+| LLM Integration               | Advanced      | OpenAI GPT, prompt engineering, production agents  |
+| AI Agents & MCP               | Advanced      | Model Context Protocol, autonomous tools           |
+| NLP & Content Generation      | Intermediate+ | SEO content, brand voice, automated pipelines      |
+| Hugging Face                  | Intermediate  | Model experimentation & integration                |
+| AI Tooling (Cursor / Copilot) | Advanced      | Rapid prototyping & boilerplate reduction          |
 
 ---
 
@@ -159,7 +163,8 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 
 #### Frontend Engineer • Trikon Telesoft Solution • Chennai  
 **Oct 2025 – Present**
-- Migrating legacy monolith → Next.js (estimated **40%** faster page loads)
+
+- Migrating legacy monolith → Next.js (**~40%** faster page loads)
 - Building responsive UIs with React + Tailwind
 - Reduced redundant API calls by **~30%**
 - Using Cursor + Copilot to cut new module build time by **~20%**
@@ -170,6 +175,7 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 
 #### Full-Stack Software Engineer • Binarychakra • Madurai  
 **Oct 2023 – Oct 2025**
+
 - Built multi-tenant B2B SaaS with **95%** client retention
 - Kafka pipelines handling **100K+** events/min → **40%** lower latency
 - Integrated OpenAI via FastAPI → **60%** less manual processing
@@ -181,7 +187,8 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 
 #### Mobile Developer • Cron24 Technologies • Madurai  
 **Mar 2022 – Sep 2023**
-- Shipped 5+ production Flutter apps (10K+ MAU)
+
+- Shipped 5+ production Flutter apps (**10K+** MAU)
 - **50%** ad revenue uplift
 - Multi-language support across 10+ regions
 - Riverpod state management → **40%** fewer UI bugs
@@ -192,13 +199,13 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 
 ### 🏆 Key Achievements
 
-| Achievement                  | Impact                                          |
-|------------------------------|-------------------------------------------------|
-| Legacy → Next.js Migration   | 40% better page load across 15+ modules         |
-| Real-time Event Pipeline     | 100K+ events/min + 40% latency drop             |
-| AI Workflow Automation       | 60% reduction in manual effort                  |
-| Client Retention             | 95% on multi-tenant B2B SaaS                    |
-| Mobile Scale                 | 10K+ MAU + 50% ad revenue growth                |
+| Achievement                  | Impact                                              |
+|------------------------------|-----------------------------------------------------|
+| Legacy → Next.js Migration   | 40% better page load across 15+ modules             |
+| Real-time Event Pipeline     | 100K+ events/min + 40% latency drop                 |
+| AI Workflow Automation       | 60% reduction in manual effort                      |
+| Client Retention             | 95% on multi-tenant B2B SaaS                        |
+| Mobile Scale                 | 10K+ MAU + 50% ad revenue growth                    |
 | Mentorship & Process         | 3 engineers mentored + 25% higher release confidence |
 
 ---
@@ -217,12 +224,15 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  &nbsp;
   <a href="https://www.geeksforgeeks.org/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/">
     <img src="https://img.shields.io/badge/HackerRank-Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
+  &nbsp;
   <a href="https://www.codechef.com/">
     <img src="https://img.shields.io/badge/CodeChef-Practice-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
@@ -233,14 +243,14 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshavardhannj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhannj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshavardhannj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhannj&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E5E7EB" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhannj&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhannj&theme=tokyonight&hide_border=true&background=00000000&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" />
 </div>
 
 ---
@@ -248,7 +258,7 @@ MCP-based AI agent that automates Shopify store operations & bulk product update
 ### 📉 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhannj&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshavardhannj&bg_color=00000000&color=A78BFA&line=7C3AED&point=22D3EE&area=true&hide_border=true" />
 </div>
 
 ---
