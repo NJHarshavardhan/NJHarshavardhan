@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="35" viewBox="0 0 1200 35">
+<defs>
+ <linearGradient id="line">
+  <stop stop-color="#8b5cf6" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#22d3ee"/>
+  <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+ </linearGradient>
+</defs>
+<path d="M0 17H1200" stroke="url(#line)" stroke-width="2"/>
+<path d="M580 17L590 7H610L620 17L610 27H590Z" fill="#8b5cf6"/>
+<circle cx="600" cy="17" r="3" fill="#22d3ee"/>
+</svg>
