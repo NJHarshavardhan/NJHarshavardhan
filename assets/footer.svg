@@ -1,0 +1,13 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+<defs>
+ <linearGradient id="bg">
+  <stop stop-color="#080719"/><stop offset=".5" stop-color="#312e81"/><stop offset="1" stop-color="#071b36"/>
+ </linearGradient>
+</defs>
+<rect width="1200" height="170" rx="20" fill="url(#bg)"/>
+<path d="M0 30Q300 130 600 30T1200 30" stroke="#a78bfa" fill="none" opacity=".7"/>
+<path d="M0 45Q300 145 600 45T1200 45" stroke="#22d3ee" fill="none" opacity=".3"/>
+<text x="600" y="95" text-anchor="middle" font-family="Arial" font-size="30" font-weight="bold" fill="white">BUILD BEYOND LIMITS</text>
+<text x="600" y="125" text-anchor="middle" font-family="monospace" font-size="13" fill="#22d3ee">HARSHA VARDHAN N J // END OF TRANSMISSION</text>
+</svg>
